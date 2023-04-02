@@ -20,6 +20,8 @@ Later versions will come with more features, support for all subnet sizes, other
 PingSweeper is OSS (Open-source software) and falls under the GNU General Public License v3.0.
 
 
+
+
 Usage:
 
 Before you can use the Bash script I would recommend to create a seperate folder and place the script in it.
@@ -41,7 +43,9 @@ or
 `'./pingsweep-v01-0422-debian.sh'`
 
 
+
 Happy Sweeping!
+
 And you will most definitely encounter bugs and errors. 
 Please let me know at this email cysecdevops@proton.me
 

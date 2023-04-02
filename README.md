@@ -25,17 +25,20 @@ Usage:
 Before you can use the Bash script I would recommend to create a seperate folder and place the script in it.
 The PingSweeper generates dated cache/result files for each sweep and saves them in the script's directory.
 
+
 In order to execute the script you will have to make it executable with the following command:
 
-'sudo chmod 777 pingsweep-v01-0422-debian.sh'
 
-After that just run 
+`'sudo chmod 777 pingsweep-v01-0422-debian.sh'`
 
-'source pingsweep-v01-0422-debian.sh'
+
+To launch the script run:
+
+`'source pingsweep-v01-0422-debian.sh'`
 
 or
 
-./pingsweep-v01-0422-debian.sh
+`'./pingsweep-v01-0422-debian.sh'`
 
 
 Happy Sweeping!

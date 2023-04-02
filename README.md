@@ -20,3 +20,26 @@ Later versions will come with more features, support for all subnet sizes, other
 PingSweeper is OSS (Open-source software) and falls under the GNU General Public License v3.0.
 
 
+Usage:
+
+Before you can use the Bash script I would recommend to create a seperate folder and place the script in it.
+The PingSweeper generates dated cache/result files for each sweep and saves them in the script's directory.
+
+In order to execute the script you will have to make it executable with the following command:
+
+'sudo chmod 777 pingsweep-v01-0422-debian.sh'
+
+After that just run 
+
+'source pingsweep-v01-0422-debian.sh'
+
+or
+
+./pingsweep-v01-0422-debian.sh
+
+
+Happy Sweeping!
+And you will most definitely encounter bugs and errors. 
+Please let me know at this email cysecdevops@proton.me
+
+

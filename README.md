@@ -1,4 +1,4 @@
-https://github.com/bysecurety/PingSweeper/blob/main/pingsweeperbanner.jpg
+<img src="https://github.com/bysecurety/PingSweeper/blob/main/pingsweeperbanner.jpg">
 
 # PingSweeper™ v0.1 Alpha
 

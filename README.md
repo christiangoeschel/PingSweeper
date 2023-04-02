@@ -1,8 +1,8 @@
 <img src="https://github.com/bysecurety/PingSweeper/blob/main/pingsweeperbanner.jpg">
 
 # PingSweeper™ v0.1 Alpha
-
-
+</br>
+</br>
 PingSweeper™ by Securety is a Bash Script that can be used as an IP Network Scanning tool to map out a given 
 network subnet and detect any live/active hosts in it.
 
@@ -20,22 +20,21 @@ The script can still be altered and made compatible with other Linux or Mac OS s
 Later versions will come with more features, support for all subnet sizes, other OS and potentially ICMPv6 Sweeping capabilities as well.
 
 PingSweeper™ is OSS (Open-source software) and falls under the GNU General Public License v3.0.
-
-
-
-
+</br>
+</br>
+</br>
 Usage:
 
 Before you can use the Bash script I would recommend to create a seperate folder and place the script in it.
 The PingSweeper generates dated cache/result files for each sweep and saves them in the script's directory.
-
-
+</br>
+</br>
 In order to execute the script you will have to make it executable with the following command:
-
-
+</br>
+</br>
 `'sudo chmod 777 pingsweep-v01-0422-debian.sh'`
-
-
+</br>
+</br>
 To launch the script run:
 
 `'source pingsweep-v01-0422-debian.sh'`
@@ -43,12 +42,12 @@ To launch the script run:
 or
 
 `'./pingsweep-v01-0422-debian.sh'`
-
-
-
+</br>
+</br>
 Happy Sweeping!
 
 And you will most definitely encounter bugs and errors. 
-Please let me know at this email cysecdevops@proton.me
+Please  report them here https://github.com/bysecurety/PingSweeper/issues 
+or send me and email at cysecdevops@proton.me
 
 

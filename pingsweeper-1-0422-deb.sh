@@ -115,8 +115,7 @@ else
 echo "_________________________________________________________________________________"
 echo ""
 echo "Please install Nmap on your system in order to use PingSweeper."
-echo "Debian-based systems (Ubuntu, Kubuntu, Kali Linux: sudo apt install nmap -y"
-echo "RedHat-based systems (Redhat Linux, Rocky Linux, CentOS: sudo dnf install nmap -y"
+echo "Use this command to install Nmap: sudo apt install nmap -y"
 echo "_________________________________________________________________________________"
 exit 1
 

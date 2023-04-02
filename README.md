@@ -48,6 +48,6 @@ Happy Sweeping!
 
 And you will most definitely encounter bugs and errors. </br>
 Please  report them here https://github.com/bysecurety/PingSweeper/issues </br>
-or send me and email at cysecdevops@proton.me
+or send me an email at cysecdevops@proton.me
 
 

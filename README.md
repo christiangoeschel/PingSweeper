@@ -23,7 +23,7 @@ PingSweeper™ is OSS (Open-source software) and falls under the GNU General Pub
 </br>
 </br>
 </br>
-Usage:
+<h2>Usage:</h2>
 
 Before you can use the Bash script I would recommend to create a seperate folder and place the script in it.
 The PingSweeper generates dated cache/result files for each sweep and saves them in the script's directory.
@@ -46,8 +46,8 @@ or
 </br>
 Happy Sweeping!
 
-And you will most definitely encounter bugs and errors. 
-Please  report them here https://github.com/bysecurety/PingSweeper/issues 
+And you will most definitely encounter bugs and errors. </br>
+Please  report them here https://github.com/bysecurety/PingSweeper/issues </br>
 or send me and email at cysecdevops@proton.me
 
 

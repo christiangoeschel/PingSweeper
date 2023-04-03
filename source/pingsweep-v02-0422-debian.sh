@@ -5,7 +5,7 @@ CACHE_FILE_NAME="pingsweep-$(date +"%FT%H%M")"
 
 #Variable declaration for SCAN RESULTS folder
 
-#To find the Ping Sweeper folder and save the test results in
+#Ping sweeper main folder search on the system
 PS_DIR="$(find / -type d -name PingSweeper-main 2>/dev/null)"
 
 #The PATH to the newly created Scan results subfolder

@@ -11,7 +11,7 @@ PS_DIR="$(find / -type d -name PingSweeper-main 2>/dev/null)"
 #The PATH to the newly created Scan results subfolder
 newScanResultsDirPATH="$PS_DIR/scanresults/scan-$(date +"%FT%H%M")"
 
-#( sudo touch $PS_DIR/source/test.txt )
+#Cache file creation and full permission assignment
 ( sudo touch $PS_DIR/cache/$CACHE_FILE_NAME.txt && sudo chmod 777 $PS_DIR/cache/$CACHE_FILE_NAME.txt )
 
 #Nmap Availability Check

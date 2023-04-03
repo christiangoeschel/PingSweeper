@@ -1,6 +1,6 @@
 <img src="https://github.com/bysecurety/PingSweeper/blob/main/pingsweeperbanner.jpg">
 
-# PingSweeper™ v0.1 Alpha
+# PingSweeper™ v0.2 Alpha
 </br>
 </br>
 PingSweeper™ by Securety is a Bash Script that can be used as an IP Network Scanning tool to map out a given 
